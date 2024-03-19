@@ -1,0 +1,1 @@
+![](https://github.com/SebastianCharmot/triangulation/blob/main/output.gif)
